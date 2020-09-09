@@ -1,1 +1,3 @@
 this is git mergetest
+
+int a = 0;//this is master brach add 
