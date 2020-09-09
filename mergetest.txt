@@ -1,1 +1,3 @@
 this is git mergetest
+
+String s = "guozijie";// this is gitTest branch
