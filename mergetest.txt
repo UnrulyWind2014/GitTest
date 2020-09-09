@@ -1,3 +1,5 @@
 this is git mergetest
 
+
 int a = 0;//this is master brach add 
+String s = "guozijie";// this is gitTest branch
